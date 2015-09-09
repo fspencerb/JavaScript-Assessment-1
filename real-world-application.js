@@ -62,6 +62,6 @@ var crayola1990 = [
 
 /***** HINTS *******
  * remember strings are immutable but the value of a variable can be adjusted as often as needed.
- * take advantage of the methods available on stings http://www.w3schools.com/js/js_string_methods.asp
+ * take advantage of the methods available on strings http://www.w3schools.com/js/js_string_methods.asp
  * there are multiple ways to do something like this but you might consider using split and join
  */ 

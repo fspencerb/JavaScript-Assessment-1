@@ -6,4 +6,13 @@ var me = {
 	'hair color': 'brown'
 };
 
-//2. Iterate over the object to console.log the propery or key names. 
+me.name = 'Spencer Buster';
+me.age = 30;
+me["hair color"] = 'blonde';
+
+//2. Iterate over the object to console.log the propery or key names.
+
+for (m in me) {
+	console.log(m);
+	console.log(me[m]);
+}
