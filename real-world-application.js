@@ -58,6 +58,20 @@ var crayola1990 = [
 	'Antique Brass'
 ];
 
+crayola1990.forEach(function() {
+	for (var i=0; i<=this.length; i++) {
+		crayola1990 = split.crayola1990;
+		if (crayola1990[i] === " ") {
+			replace.crayola1990[i](" " = "_");
+		}
+		if (crayola1990[i] == crayola1990[i].toUpperCase()) {
+ 			crayola1990[i].toUpperCase() == crayola1990[i].toLowerCase();
+		}
+		crayola1990 = join.crayola1990;
+	}
+});
+console.log(crayola1990);
+
 //create a loop that will iterate over each item in the array and then use the String methods to modify the value at the current position in the array
 
 /***** HINTS *******
